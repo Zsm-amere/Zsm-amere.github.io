@@ -10,6 +10,7 @@ tags:
 	- C++
 	- Windows
 ---
+
 # 调用 Windows API 结束进程
 
 ```C++
