@@ -1,10 +1,10 @@
 # Site settings
-title: XL Blog
-SEOTitle: 西楼的博客 | XL Blog
+title: AMERE Blog
+SEOTitle: 西楼的博客 | AMERE Blog
 header-img: img/post-bg-desk.jpg
 电子邮箱: wqs10098671@outlook.com
 description: "Every failure is leading towards success."
-keyword: "XL, XL Blog, 西楼的博客, xilou, 西楼, iOS, Apple, iPhone"
+keyword: "AMERE, AMERE Blog, 西楼的博客, AMERE, 西楼, Windows, C++, Qt"
 url: "https://zsm-amere.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Zsm-amere/Zsm-amere.github.io.git" # you code repository
