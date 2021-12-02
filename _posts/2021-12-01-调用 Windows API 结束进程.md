@@ -3,13 +3,14 @@ layout:     post
 title:      调用 Windows API 结束进程
 subtitle:   调用 Windows API 结束进程
 date:       2021-12-01
-author:     XL
+author:     AMERE
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-	- C++
-	- Windows
+    - C++
+    - Windows
 ---
+
 # 调用 Windows API 结束进程
 
 ```C++

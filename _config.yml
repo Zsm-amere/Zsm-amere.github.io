@@ -1,16 +1,16 @@
 # Site settings
-title: XL Blog
-SEOTitle: 西楼的博客 | XL Blog
-header-img: img/post-bg-desk.jpg
-电子邮箱: wqs10098671@outlook.com
+title: AMERE BLOG
+SEOTitle: 西楼的博客 | AMERE BLOG
+header-img: img/post-bg-coffee.jpeg
+电子邮箱: wqs10098671@163.com
 description: "Every failure is leading towards success."
-keyword: "XL, XL Blog, 西楼的博客, xilou, 西楼, iOS, Apple, iPhone"
+keyword: "AMERE, AMERE BLOG, 西楼的博客, amere, 西楼, Windows, C++, Qt"
 url: "https://zsm-amere.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Zsm-amere/Zsm-amere.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
