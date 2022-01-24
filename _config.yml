@@ -4,7 +4,7 @@ SEOTitle: 西楼的博客 | AMERE BLOG
 header-img: img/post-bg-coffee.jpeg
 电子邮箱: wqs10098671@163.com
 description: "Every failure is leading towards success."
-keyword: "AMERE, AMERE BLOG, 西楼的博客, amere, 西楼, 机器视觉, Windows, C++, Qt"
+keyword: "AMERE, AMERE BLOG, 西楼的博客, amere, 西楼, 机器视觉, HALCON, Windows, C++, Qt"
 url: "https://zsm-amere.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Zsm-amere/Zsm-amere.github.io.git" # you code repository
