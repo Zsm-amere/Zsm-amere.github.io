@@ -44,14 +44,13 @@ tags:
    > 3. [libqt5webenginewidgets5_5.11.3+dfsg-2+deb10u1_armhf.deb](https://packages.debian.org/buster/libqt5webenginewidgets5)
    > 4. [qtwebengine5-dev_5.11.3+dfsg-2+deb10u1_armhf.deb](https://packages.debian.org/buster/qtwebengine5-dev)
 
+## 2、安装
    > ```shell
    > sudo dpkg -i libqt5webenginecore5_5.11.3+dfsg-2+deb10u1_armhf.deb
    > sudo dpkg -i libqt5webengine5_5.11.3+dfsg-2+deb10u1_armhf.deb
    > sudo dpkg -i libqt5webenginewidgets5_5.11.3+dfsg-2+deb10u1_armhf.deb
    > sudo dpkg -i qtwebengine5-dev_5.11.3+dfsg-2+deb10u1_armhf.deb
    > ```
-
-## 2、安装
 
 在提示 `dependency problems- leaving unconfigured` 错误时，运行
 
