@@ -44,8 +44,6 @@ tags:
    > 3. [libqt5webenginewidgets5_5.11.3+dfsg-2+deb10u1_armhf.deb](https://packages.debian.org/buster/libqt5webenginewidgets5)
    > 4. [qtwebengine5-dev_5.11.3+dfsg-2+deb10u1_armhf.deb](https://packages.debian.org/buster/qtwebengine5-dev)
 
-4. 安装软件包
-
    > ```shell
    > sudo dpkg -i libqt5webenginecore5_5.11.3+dfsg-2+deb10u1_armhf.deb
    > sudo dpkg -i libqt5webengine5_5.11.3+dfsg-2+deb10u1_armhf.deb
@@ -53,17 +51,19 @@ tags:
    > sudo dpkg -i qtwebengine5-dev_5.11.3+dfsg-2+deb10u1_armhf.deb
    > ```
 
+## 2、安装
+
 在提示 `dependency problems- leaving unconfigured` 错误时，运行
 
 > ```shell
 > sudo apt-get -f install
 > ```
 
-5. 使用硬件加速
+## 3、硬件加速相关配置
 
-   > ```shell
-   > sudo apt-get install libgles2-mesa libgles2-mesa-dev xorg-dev
-   > ```
+> ```shell
+> sudo apt-get install libgles2-mesa libgles2-mesa-dev xorg-dev
+> ```
 
 安装库之后进入设置界面 `sudo raspi-config` 设置 OpenGL 驱动
 
